@@ -91,7 +91,7 @@ export default ConnectedComponent;
 
 ```
 
-1. **Using the Connected Component:** You would then use the ConnectedComponent in your application in place of YourComponent. The data from the Redux store and the dispatching of actions would be handled automatically.
+2. **Using the Connected Component:** You would then use the ConnectedComponent in your application in place of YourComponent. The data from the Redux store and the dispatching of actions would be handled automatically.
 
 ```
 // In some other part of your application
@@ -170,4 +170,4 @@ node used - v20.7.0
 
 ## UI Screenshot:
 
-![UI_Screenshot](/images/UI_ScreenShot_on_2023-10-06.png "Todo App with React-redux"))
+![UI_Screenshot](/images/UI_ScreenShot_on_2023-10-06.png "Todo App with React-redux")
